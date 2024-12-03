@@ -1,0 +1,163 @@
+#center {
+    text-align: center;
+    font-weight: ;
+}
+
+#controls {
+    display: inline;
+    margin-top: 0 auto;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 2px;
+    margin-left: 0;
+    width: 980px;
+    height: 48px;
+    margin-left: 40px;
+    font-size: 24px;
+}
+
+#nextMove {
+    width: 1px;
+    height: 1px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 2px;
+    margin-left: 0;
+    display: inline;
+}
+
+#products {
+    display: inline-block;
+    margin-top: 0 auto;   
+    width: 410px;
+    color: #323232;
+    align-items: center;
+    padding: 0px;
+    width: 600px;
+    height: 22px;
+    font-style: normal;
+    font-size: 18px;
+}
+  
+#about {
+    width: 54px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    margin-left: 16px;
+    display: inline;
+    color: #FF5DA3;
+}
+  
+#offer {
+    display: inline;
+    margin-left: 16px;
+    width: 127px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #323232;
+}
+  
+#contact {
+    font-size: 24px;
+    margin-left: 16px;
+    display: inline;
+    width: 68px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #323232;
+}
+  
+#help {
+    margin-left: 16px;
+    font-size: 24px;
+    display: inline;
+    width: 40px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #323232;
+}
+  
+#contactUs {
+    display: inline-block;
+}
+
+#button {
+    color: white;
+    background: hsl(118, 92%, 49%);
+    border-radius: 8px;
+    border: 1px solid rgb(18, 240, 10);
+    width: 75px;
+    height: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+#instructor {   
+    display: inline-block;
+    align-items: center;
+    width: 855px;
+    height: 600px;
+    top: 293px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+#teacher {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0;
+}
+
+#pink {
+    color: #FF5DA3;
+    margin-top: 1px;
+    margin-bottom: 0;
+}
+
+#unlock {
+    display: inline-block;
+    text-align: center;
+    width: 828px;
+    margin-top: 0;
+}
+
+#enjoy {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#opportunity {
+    display: inline-block;
+    text-align: center;
+    width: 447px;
+    margin-top: 0;
+    margin-left: 220px;
+}
+
+#become {
+    margin-left: 356px;
+    width: 170px;
+    height: 40px;
+    background-color: green;
+    border: 2px solid green;
+    color: white;
+}
+
