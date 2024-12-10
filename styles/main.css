@@ -1,6 +1,7 @@
 #controlsWrapper {
     display: block;
     height: 59px;
+    margin: 0 auto;
     text-align: center;
     margin-bottom: 216px;
 }
@@ -57,6 +58,7 @@
     display: inline-block;
     text-align: center;
     width: 1257px;
+    margin: 0 auto;
 }
 
 #teacher {
