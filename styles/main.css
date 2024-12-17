@@ -1,23 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 #controlsWrapper {
-    display: block;
-    height: 59px;
     margin: 0 auto;
-    text-align: center;
-    margin-bottom: 216px;
+    width: 850px;
+    height: 59px;
+    margin-bottom: 221px;
 }
 
 #controls {
+    margin: 0 auto;
     width: 840px;
-    margin: 0 auto; 
-    display: inline-block;
-    margin-bottom: 12px;
+    height: 46px;
 }
 
 #nextMove {
-    display: inline-block;
-    margin-top: 12px;
-    margin-right: 156px;
+    margin-right: 134px;
 }
+
   
 #about {
     display: inline-block;
@@ -48,17 +51,26 @@
     margin-right: 148px;
 }
 
-#button {
+#contactUs {
     display: inline-block;
-    margin: 0;
+    padding-top: 9px;
+    padding-left: 18px;
+    width: 104px;
+    height: 40px;
+    border: none solid 1px;
+    border-radius: 8px;
+    background-color: #00AC25;
+    color: #FFFFFF;
     margin-top: 18px;
+    text-decoration: none;
 }
 
 #instructor {   
-    display: inline-block;
     text-align: center;
     width: 1257px;
+    height: 473px;
     margin: 0 auto;
+    margin-bottom: 235px;
 }
 
 #teacher {
@@ -66,20 +78,28 @@
     width: 1100px;
     height: 126px;
     font-size: 64px;
-    font-style: normal;
     font-weight: 700;
-    line-height: 16px;
     color: #000;
-    font-family: 'Inter';
+    font-style: 'Inter';
     margin-bottom: 24px;
+}
+
+#normal {
+    display: block;
+    width: 990px;
+    height: 80px;
+    margin-bottom: 8px;
 }
 
 #pink {
     display: inline-block;
+    width: 990px;
+    height: 60px;
     color: #FF5DA3;
 }
 
 #unlock {
+    margin-top: 24px;
     display: inline-block;
     width: 1100px;
     font-size: 22px;
@@ -88,10 +108,10 @@
     font-family: "IBM Plex Sans KR";
     font-style: normal;
     font-weight: 400;
-    margin-bottom: 24px;
 }
 
 #enjoy {
+    margin-top: 24px;
     display: inline-block;
     width: 1100px;
     color: #000;
@@ -100,11 +120,11 @@
     font-size: 32px;
     font-style: normal;
     font-weight: 700;
-    margin-bottom: 24px;
 }
 
 #opportunity {
-    display: inline-block;
+    margin: 0 auto;
+    margin-top: 24px;
     width: 530px;
     color: #6941C6;
     text-align: center;
@@ -112,21 +132,24 @@
     font-size: 19px;
     font-style: normal;
     font-weight: 400;
-    margin-bottom: 24px;
 }
 
 #become {
     display: inline-block;
+    margin-top: 24px;
+    width: 200px;
+    height: 56px;
     padding: 16px 24px;
     background-color: #00AC25;
     border: 2px solid #00AC25;
     border-radius: 8px;
     color: #FFFFFF;
-    margin-bottom: 535px;
+    text-decoration: none;
 }
 
 #footer {
-    display: block;
-    width: 1289px;
+    margin: 0 auto;
+    width: 1349px;
     height: 96px;
+    margin-top: 120px;
 }
